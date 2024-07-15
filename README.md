@@ -1,7 +1,6 @@
 Personal fork to make author not required as it errors for some weird reason.
 
 ---
-# Original ReadMe
 # Unturned Templates
 This repository contains templates for creating Unturned Rocket plugins in Visual Studio.  
 
