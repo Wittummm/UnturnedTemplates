@@ -21,7 +21,7 @@
       "type": "parameter",
       "datatype": "string",
       "description": "Author name to use in the project namesppace.",
-      "isRequired": true
+      "isRequired": false
     },
     "AuthorNamespace": {
       "type": "generated",
